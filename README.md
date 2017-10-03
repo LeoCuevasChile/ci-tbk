@@ -1,4 +1,4 @@
-# ADVERTENCIA  🙅🏽‍♂️
+# ADVERTENCIA  🖐
 Por ningún motivo utilizar en producción. Sólo se incluye el ejemplo más básico de uso de la librería.
 Para producción se recomienda el uso de logs y respaldos en bases de datos de las ordenes de compra
 y las respuestas de las transacciones de Transbank.
